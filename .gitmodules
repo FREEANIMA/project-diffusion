@@ -1,3 +1,15 @@
 [submodule "diffusion-inference"]
     path = diffusion-inference
     url = https://github.com/USERNAME/diffusion-inference.git
+
+[submodule "diffusion-llm-train"]
+    path = diffusion-llm-train
+    url = https://github.com/USERNAME/diffusion-llm-train.git
+
+[submodule "diffusion-train"]
+    path = diffusion-train
+    url = https://github.com/USERNAME/diffusion-train.git
+
+[submodule "diffusion-video-train"]
+    path = diffusion-video-train
+    url = https://github.com/USERNAME/diffusion-video-train.git
