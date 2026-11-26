@@ -41,3 +41,6 @@ pyarrow
 tiktoken
 protobuf
 python-multipart
+
+PyQt6
+PySide2
