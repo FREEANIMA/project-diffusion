@@ -15,5 +15,5 @@
     url = https://github.com/USERNAME/diffusion-video-train.git
 
 [submodule "diffusion-video-cach"]
-    path = diffusion-video-train
+    path = diffusion-video-cach
     url = https://github.com/USERNAME/diffusion-video-cach.git
